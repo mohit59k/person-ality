@@ -1,0 +1,47 @@
+body{
+  background-color: lightgreen;
+}
+
+h1{
+  font-size: 150%;
+  padding-left: 25%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.main{
+  margin-left: 15%;
+  margin-right: 15%;
+  border-style: solid;
+  border-radius: 2%;
+  border-width: thick;
+  box-shadow:
+    0 0 0 10px hsl(0, 0%, 50%),
+    0 0 0 15px hsl(0, 0%, 60%),
+    0 0 0 20px hsl(0, 0%, 70%),
+    0 0 0 25px hsl(0, 0%, 80%),
+    0 0 0 30px hsl(0, 0%, 90%);
+}
+
+h3{
+  padding-left: 40%;
+}
+
+.input_name{
+  padding-left: 41%;
+}
+
+#fname{
+  background-color: #ff6666;
+}
+
+.image{
+  padding-top: 2%;
+  padding-left: 39.5%;
+  padding-bottom: 2%;
+}
+
+.button{
+  padding-left: 45%;
+  padding-bottom: 2%;
+}
